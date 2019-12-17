@@ -5,4 +5,5 @@
 * [Music Tools](music-tools.md)
 * [To play](a-jouer.md)
 * [To listen](to-listen.md)
+* [Musique Baroque](musique-baroque.md)
 
