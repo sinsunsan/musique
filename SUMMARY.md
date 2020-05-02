@@ -1,7 +1,8 @@
 # Table of contents
 
 * [Sentimental mood](README.md)
-* [Jazz standards](jazz-standards.md)
+* [Jazz standards](jazz-standards/README.md)
+  * [Solar / Miles Davis](jazz-standards/solar-miles-davis.md)
 * [Links](links.md)
 * [To play](a-jouer.md)
 * [To listen](to-listen.md)
