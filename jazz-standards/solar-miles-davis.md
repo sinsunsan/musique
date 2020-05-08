@@ -4,5 +4,7 @@
 
 {% embed url="https://www.jazzguitarlessons.net/blog/solar" %}
 
+{% embed url="https://www.jazzguitarlessons.net/blog/how-to-play-solar" %}
+
 
 
