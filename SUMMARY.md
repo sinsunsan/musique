@@ -9,5 +9,7 @@
 * [Links](links.md)
 * [To play](a-jouer.md)
 * [To listen](to-listen.md)
-* [Musique Baroque](musique-baroque.md)
+* [Musique Baroque](musique-baroque/README.md)
+  * [Bach](musique-baroque/bach.md)
+* [Artists](artists.md)
 
