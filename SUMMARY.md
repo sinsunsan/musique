@@ -10,6 +10,7 @@
 * [To play](a-jouer.md)
 * [To listen](to-listen.md)
 * [Musique Baroque](musique-baroque/README.md)
-  * [Bach](musique-baroque/bach.md)
+  * [Bach](musique-baroque/bach/README.md)
+    * [Chaconne Partita n°2](musique-baroque/bach/chaconne-partita-n-2.md)
 * [Artists](artists.md)
 
