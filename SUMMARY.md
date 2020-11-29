@@ -9,8 +9,9 @@
 * [Links](links.md)
 * [To play](a-jouer.md)
 * [To listen](to-listen.md)
-* [Musique Baroque](musique-baroque/README.md)
-  * [Bach](musique-baroque/bach/README.md)
-    * [Chaconne Partita n°2](musique-baroque/bach/chaconne-partita-n-2.md)
+* [Bach](bach/README.md)
+  * [Chaconne Partita n°2](bach/chaconne-partita-n-2.md)
+  * [Suite pour violoncelle seule n°2](bach/suite-pour-violoncelle-seule-n-2.md)
+* [Musique Baroque](musique-baroque.md)
 * [Artists](artists.md)
 
