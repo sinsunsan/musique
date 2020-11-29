@@ -10,9 +10,10 @@
 * [To play](a-jouer.md)
 * [To listen](to-listen.md)
 * [Bach](bach/README.md)
-  * [Chaconne Partita n°2](bach/chaconne-partita-n-2.md)
-  * [Suite pour violoncelle seule n°2](bach/suite-pour-violoncelle-seule-n-2.md)
+  * [BMV 1008 / Suite pour violoncelle seul n°2](bach/suite-pour-violoncelle-seule-n-2.md)
   * [Motets](bach/motets.md)
+  * [BMV 1003 - Sonate pour Violon n°2](bach/bmv-1003-sonate-pour-violon-n-2.md)
+  * [BMV 1004 - Partita n°2](bach/bmv-1004.md)
 * [Musique Baroque](musique-baroque.md)
 * [Artists](artists.md)
 
