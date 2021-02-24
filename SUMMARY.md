@@ -6,6 +6,7 @@
   * [Bach Guitar](jazz-standards/bach-guitar.md)
   * [Solar / Miles Davis](jazz-standards/solar-miles-davis.md)
   * [Misty](jazz-standards/misty.md)
+  * [Caravan](jazz-standards/caravan.md)
 * [Links](links.md)
 * [To play](a-jouer.md)
 * [To listen](to-listen.md)
