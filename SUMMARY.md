@@ -10,6 +10,7 @@
 * [Learn](learn/README.md)
   * [Jazz chord](learn/jazz-chord.md)
   * [Caged system \(Guitar\)](learn/caged.md)
+  * [Chords](learn/chords.md)
 * [Links](links.md)
 * [To play](a-jouer.md)
 * [To listen](to-listen.md)
