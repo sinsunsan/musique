@@ -8,8 +8,9 @@
   * [Misty](jazz-standards/misty.md)
   * [Caravan](jazz-standards/caravan.md)
 * [Learn](learn/README.md)
+  * [Harmonie](learn/harmonie.md)
   * [Jazz chord](learn/jazz-chord.md)
-  * [Caged system \(Guitar\)](learn/caged.md)
+  * [Caged system (Guitar)](learn/caged.md)
   * [Chords](learn/chords.md)
 * [Links](links.md)
 * [To play](a-jouer.md)
@@ -21,4 +22,3 @@
   * [BMV 1004 - Partita n°2](bach/bmv-1004.md)
 * [Musique Baroque](musique-baroque.md)
 * [Artists](artists.md)
-
